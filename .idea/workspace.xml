@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56a0c16d-9a94-44dc-bdcd-a2c7bb69497d" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MessengerApp/app/assets/stylesheets/application.css" afterPath="$PROJECT_DIR$/MessengerApp/app/assets/stylesheets/application.css.sass" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MessengerApp/app/views/messages/index.html.erb" afterPath="$PROJECT_DIR$/MessengerApp/app/views/messages/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MessengerApp/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/MessengerApp/app/assets/javascripts/application.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MessengerApp/app/assets/stylesheets/messages.scss" afterPath="$PROJECT_DIR$/MessengerApp/app/assets/stylesheets/messages.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,8 +50,8 @@
       <file leaf-file-name="messages.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MessengerApp/app/assets/stylesheets/messages.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="55" column="1" lean-forward="false" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+            <state relative-caret-position="287">
+              <caret line="54" column="9" lean-forward="true" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -797,8 +793,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MessengerApp/app/assets/stylesheets/messages.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="55" column="1" lean-forward="false" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+        <state relative-caret-position="287">
+          <caret line="54" column="9" lean-forward="true" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
           <folding />
         </state>
       </provider>
