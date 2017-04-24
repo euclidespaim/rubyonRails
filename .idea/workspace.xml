@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56a0c16d-9a94-44dc-bdcd-a2c7bb69497d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MessengerApp/db/schema.rb" afterPath="$PROJECT_DIR$/MessengerApp/db/schema.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MovieApp/db/seeds.rb" afterPath="$PROJECT_DIR$/MovieApp/db/seeds.rb" />
-    </list>
+    <list default="true" id="56a0c16d-9a94-44dc-bdcd-a2c7bb69497d" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
