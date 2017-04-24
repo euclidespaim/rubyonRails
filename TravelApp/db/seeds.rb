@@ -30,3 +30,9 @@ t5 = Tag.create(title: "Family", image: "http://s3.amazonaws.com/codecademy-cont
 Destination.create(name: "British Museum", description: "A museum dedicated to human history and culture, with over 8 million works.", image: "http://s3.amazonaws.com/codecademy-content/courses/learn-rails/img/family02.jpg", tag_id: t5.id)
 Destination.create(name: "San Diego Zoo", description: "Houses over 3,700 animals of more than 650 species and subspecies.", image: "http://s3.amazonaws.com/codecademy-content/courses/learn-rails/img/family03.jpg", tag_id: t5.id)
 Destination.create(name: "Central Park", description: "The most visited urban park in the US as well as one of the most filmed locations in the world.", image: "http://s3.amazonaws.com/codecademy-content/courses/learn-rails/img/family04.jpg", tag_id: t5.id)
+
+t6 = Tag.create(title: "Family", image: "https://avatars3.githubusercontent.com/u/14187003?v=3&s=460")
+Destination.create(name: "British Museum", description: "A museum dedicated to human history and culture, with over 8 million works.", image: "https://avatars3.githubusercontent.com/u/14187003?v=3&s=460", tag_id: t6.id)
+Destination.create(name: "San Diego Zoo", description: "Houses over 3,700 animals of more than 650 species and subspecies.", image: "https://avatars3.githubusercontent.com/u/14187003?v=3&s=460", tag_id: t6.id)
+Destination.create(name: "Central Park", description: "The most visited urban park in the US as well as one of the most filmed locations in the world.", image: "https://avatars3.githubusercontent.com/u/14187003?v=3&s=460", tag_id: t6.id)
+

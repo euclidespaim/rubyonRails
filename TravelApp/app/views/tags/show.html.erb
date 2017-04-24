@@ -10,11 +10,21 @@
     <h2><%= @tag.title %></h2>
 
     <div class="cards row">
+
+      <!--
+      To do: Loop through destinations and display each one with this HTML
+      <div class="card col-xs-4">
+        destination's image goes here
+        <h2> destination's name goes here </h2>
+        <p> destination's description goes here </p>
+      </div>
+      -->
       <% @destinations.each do |d| %>
       <div class="card col-xs-4">
         <%= image_tag d.image %>
         <h2><%= d.name %></h2>
         <p><%= d.description %></p>
+        <p><%= link_to "See more", destination_path(d) %></p>
       </div>
       <% end %>
     </div>
