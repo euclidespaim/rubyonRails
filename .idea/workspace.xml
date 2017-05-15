@@ -47,7 +47,7 @@
       <file leaf-file-name="seeds.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MovieApp/db/seeds.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
+            <state relative-caret-position="349">
               <caret line="42" column="152" lean-forward="false" selection-start-line="42" selection-start-column="152" selection-end-line="42" selection-end-column="152" />
               <folding />
             </state>
@@ -411,7 +411,7 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -847,7 +847,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MovieApp/db/seeds.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
+        <state relative-caret-position="349">
           <caret line="42" column="152" lean-forward="false" selection-start-line="42" selection-start-column="152" selection-end-line="42" selection-end-column="152" />
           <folding />
         </state>
